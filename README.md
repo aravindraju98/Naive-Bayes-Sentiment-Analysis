@@ -14,16 +14,6 @@ Approach
     Naive Bayes Model Training: Construct a term-document matrix and train a Naive Bayes classifier.
     Model Evaluation: Test the model on unseen reviews and evaluate its performance using metrics like accuracy, precision, recall, and F1-score.
 
-├── data
-│   ├── pos
-│   │   ├── positive_review1.txt
-│   │   ├── positive_review2.txt
-│   │   └── ...
-│   ├── neg
-│   │   ├── negative_review1.txt
-│   │   ├── negative_review2.txt
-│   │   └── ...
-├── notebooks
-│   ├── Sentiment_Analysis_Notebook.ipynb
-├── README.md
-└── requirements.txt
+Results
+
+The model's performance can be evaluated using metrics like accuracy, precision, recall, and F1-score. These metrics help in understanding the effectiveness of the classifier in distinguishing between positive and negative reviews.
